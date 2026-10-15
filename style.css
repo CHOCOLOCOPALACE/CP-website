@@ -244,13 +244,13 @@
  }
 
  .brand img {
-    width: 30px;
-    height: auto;
+    width: 80px;
+    height: 80;
     display: block;
     object-fit: contain;
  }
 .logo {
- width: 30px;
-height: auto;
+ width: 80px;
+height: 80;
 object-fit: contain;
 }
