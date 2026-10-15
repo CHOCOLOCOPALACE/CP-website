@@ -250,8 +250,9 @@
      object-fit: contain;
  }
   
-.logo img {
-     width: 100px;
-     height: 100px;
+.logo img{
+     width: 100px; !important;
+     height: 100px; !important;
+     max-width: 100px !important;
      object-fit: contain;
 }
