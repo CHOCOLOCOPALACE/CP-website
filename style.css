@@ -236,3 +236,13 @@
  .product img:hover {
       transform: scale(1.05);
  }
+
+.logo {
+    width: 120px;
+    heigth: auto;
+    object-fit: contain;
+}
+
+
+
+
