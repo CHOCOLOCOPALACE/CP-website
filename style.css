@@ -236,13 +236,16 @@
  .product img:hover {
       transform: scale(1.05);
  }
+ .navbar {
+    display: flex;
+    align-items: center;
+    padding: 10px 30px;
+    background: #1a0b04;
+ }
 
-.logo {
-    width: 120px;
-    heigth: auto;
+ .brand img {
+    width: 100px;
+    height: auto;
+    display: block;
     object-fit: contain;
-}
-
-
-
-
+ }
